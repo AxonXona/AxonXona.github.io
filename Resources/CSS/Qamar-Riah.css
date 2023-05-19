@@ -7,6 +7,10 @@ html, body{
     padding: 0;
 }
 
+a{
+    color: white;
+}
+
 h1{
     text-align: center;
     font-size: 50px;
