@@ -69,6 +69,7 @@ li{
     padding: 23px 26px;
     margin: 25px; 
     border-radius: 30px;
+    border: 1px solid black;
 }
 
 #Riah:hover{
@@ -81,6 +82,7 @@ li{
     background-color: #ffaa33;
     margin: 25px; 
     border-radius: 30px;
+    border: 1px solid black;
 }
 
 #Luceran:hover{
@@ -93,6 +95,7 @@ li{
     padding: 23px 59.5px;
     margin: 25px; 
     border-radius: 30px;
+    border: 1px solid black;
 }
 
 #Altavar:hover{
@@ -105,6 +108,7 @@ li{
     padding: 23px 49px;
     margin: 25px; 
     border-radius: 30px;
+    border: 1px solid black;
 }
 
 #Vera:hover{
