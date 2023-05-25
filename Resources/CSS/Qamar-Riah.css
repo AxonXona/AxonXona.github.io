@@ -9,6 +9,7 @@ html, body{
 
 a{
     color: white;
+    font-size: 30px;
 }
 
 h1{
@@ -25,5 +26,5 @@ body{
 
 p{
     font-size:  25px;
-    font-family:cursive
+    font-family:cursive;
 }

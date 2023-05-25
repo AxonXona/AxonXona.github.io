@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    color:white;
+    position: relative;
+    text-transform: uppercase;
+    text-align: right;
+    right: 400px;
+}
+
+body{
+    background-color: black;
+    background-image: url(/Resources/Pictures/finalfinalfinal.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a{
+    color: white;
+    font-size: 30px;
+    position: fixed;
+}
+
+.container{
+    position: relative;
+    left: 850px;
+    display: flex;
+    flex-direction: row;
+    max-width: 1050px;
+}
+p{
+    color: white;
+    line-height: 2;
+    font-size: 22px;
+    
+}

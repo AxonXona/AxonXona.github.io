@@ -8,13 +8,14 @@ html, body{
 }
 
 html{
-    background-image: url(/Resources/Pictures/1199985.jpg);
-    background-size: cover;
+    background-image: url(/Resources/Pictures/shadowfell\ building.jpg);
+    background-size:cover;
+    background-position: center center;
+    background-attachment: fixed;
+    line-height: 3;
 }
 
 header{
-    background-image: url(https://s3.amazonaws.com/files.d20.io/images/340594935/V1mALp3pN4PSLJdBDcCdag/med.jpg?1683387683052);
-    height:1040px;
     background-size: cover;
     background-position: 90px;
     position: relative;
@@ -24,7 +25,7 @@ header{
 
 header h1{
     font-family: cursive;
-    color: crimson;
+    color: white;
     text-transform: uppercase;
     text-align: center;
     font-size: 100px;
@@ -38,77 +39,13 @@ nav li{
 section{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
 }
-
 a{
-    color:white;
+    color: white;
     display: inline-block;
-}
-
-.Riah:hover{
-    color: black;
-}
-
-.Q{
-    text-align: right;
-    position: relative;
-    bottom: 30px;
-    font-size: 50px;
+    cursor: pointer;
+    font-size: 30px;
     
-    width: 25pc;
 }
-
-.Luceran:hover{
-    color: #ffaa33;
-}
-
-.L{
-    text-align: right;
-    position: relative;
-    bottom: 30px;
-    left: 100px;
-    font-size: 50px;
-}
-
-
-.Altavar:hover{
-    color:purple;
-}
-
-.A{
-    text-align: right;
-    position: relative;
-    bottom: 30px;
-    left: 200px;
-    font-size: 50px;
-}
-
-
-.Niobe:hover{
-    color: #f3872f;
-}
-
-.N{
-    text-align: right;
-    position: relative;
-    bottom: 30px;
-    left: 300px;
-    font-size: 50px;
-}
-
-
-.Vera:hover{
-    color:blue;
-}
-
-.V{
-    text-align: right;
-    position: relative;
-    bottom: 30px;
-    left: 250px;
-    font-size: 50px;
-    width: 25pc;
-
-}
-
-
